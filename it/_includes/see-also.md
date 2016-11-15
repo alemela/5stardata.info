@@ -1,0 +1,4 @@
+- [Ed Summers](http://inkdroid.org/ehs/) ha prodotto una [bella vista](http://inkdroid.org/2010/06/04/the-5-stars-of-open-linked-data/ "the 5 stars of open linked data") dello schema a 5 stelle che stiamo costruendo qui.
+- Se pubblichi Open Data, potresti voler utilizzare [questi badges](http://lab.linkeddata.deri.ie/2010/lod-badges/) per segnalare il tuo livello.
+- Christopher Gutteridge ha preparato un [corso intensivo sui Linked Data per programmatori](http://openorg.ecs.soton.ac.uk/wiki/Linked_Data_Basics_for_Techies).
+- L'[Open Data Institute](http://theodi.org/) ti aiuta a certificare i tuoi open data con i [certificati open data](https://certificates.theodi.org/).
